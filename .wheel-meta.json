@@ -1,0 +1,22 @@
+{
+  "wheel_id": 911,
+  "structure": "umbrella",
+  "slug": "retainingwallperth-114",
+  "project": "retaining-walls-perth-before-you-start-6d8cb09e705a12bd230803f9",
+  "parent_t1_ref": "retainingwallperth-156",
+  "node_role": "feeder",
+  "money_target": "retainingwallperth.au",
+  "primary_kw": "retaining walls perth before you start",
+  "intended_url": "https://sitesau.github.io/retainingwallperth-114/",
+  "tier": "T2",
+  "writeback_nonce": "3130139b6537a2b1",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-perth-glossary-8e9c95bb20dc1e75506250a4675b9707/",
+      "anchor": "more on retaining walls perth glossary",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
